@@ -82,7 +82,7 @@ Abaixo estão os gráficos gerados a partir da análise exploratória. Todos est
 
 ## 📬 Contato
 
-Para dúvidas ou sugestões, entre em contato via [seu-email-aqui@exemplo.com](mailto:seu-email-aqui@exemplo.com) ou crie uma *issue* neste repositório.
+Para dúvidas ou sugestões, entre em contato via [seu-email-aqui@exemplo.com](Edracky3@gmail.com) ou crie uma *issue* neste repositório.
 
 ---
 
