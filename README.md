@@ -46,19 +46,19 @@ Abaixo estão os gráficos gerados a partir da análise exploratória. Todos est
 ![Tempo de Permanência](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20do%20Tempo%20de%20Perman%C3%AAncia%20dos%20Clientes.png)
 
 ### 5. Gênero vs Cancelamento
-![Gênero vs Cancelamento]([images/genero_cancelamento.png](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20de%20G%C3%AAnero%20Contratos%20Ativos%20vs%20Cancelamentos.png))
+![Gênero vs Cancelamento]([images/genero_cancelamento.png](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20de%20G%C3%AAnero%20Contratos%20Ativos%20vs%20Cancelamentos.png)
 
 ### 6. Cliente Idoso vs Cancelamento
 ![Cliente Idoso vs Cancelamento]([images/idoso_cancelamento.png](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20de%20Cliente%20Idoso%20vs%20Cancelamento.png))
 
 ### 7. Cliente com Cônjuge vs Cancelamento
-![Cônjuge vs Cancelamento]([images/conjuge_cancelamento.png](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20de%20Cliente%20que%20possui%20c%C3%B4njugue%20vs%20Cancelamento.png))
+![Cônjuge vs Cancelamento]([images/conjuge_cancelamento.png](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20de%20Cliente%20que%20possui%20c%C3%B4njugue%20vs%20Cancelamento.png)
 
 ### 8. Cliente com Dependentes vs Cancelamento
 ![Dependentes vs Cancelamento](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20de%20Clientes%20que%20possui%20dependentes%20vs%20Cancelamento.png)
 
 ### 9. Serviço de Telefone vs Cancelamento
-![Serviço de Telefone vs Cancelamento]([images/telefone_cancelamento.png](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20de%20servi%C3%A7o%20telefone%20vs%20Cancelado.png))
+![Serviço de Telefone vs Cancelamento]([images/telefone_cancelamento.png](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20de%20servi%C3%A7o%20telefone%20vs%20Cancelado.png)
 
 ---
 
