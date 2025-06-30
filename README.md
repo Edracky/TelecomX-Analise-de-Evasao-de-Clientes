@@ -46,7 +46,7 @@ Abaixo estão os gráficos gerados a partir da análise exploratória. Todos est
 ![Tempo de Permanência](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20do%20Tempo%20de%20Perman%C3%AAncia%20dos%20Clientes.png)
 
 ### 5. Gênero vs Cancelamento
-![Gênero vs Cancelamento]([images/genero_cancelamento.png](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20de%20G%C3%AAnero%20Contratos%20Ativos%20vs%20Cancelamentos.png)
+![Gênero vs Cancelamento](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20de%20G%C3%AAnero%20Contratos%20Ativos%20vs%20Cancelamentos.png)
 
 ### 6. Cliente Idoso vs Cancelamento
 ![Cliente Idoso vs Cancelamento]([images/idoso_cancelamento.png](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20de%20Cliente%20Idoso%20vs%20Cancelamento.png))
