@@ -37,7 +37,7 @@ Abaixo estão os gráficos gerados a partir da análise exploratória. Todos est
 ![Evasão de Clientes](images/evasao_clientes.png)
 
 ### 2. Distribuição de Cancelamento
-![Distribuição de Cancelamento](images/distribuicao_cancelamento.png)
+![Distribuição de Cancelamento](imagens_telecomX/Distribuição de Cancelamento.png)
 
 ### 3. Formas de Pagamento
 ![Formas de Pagamento](images/formas_pagamento.png)
