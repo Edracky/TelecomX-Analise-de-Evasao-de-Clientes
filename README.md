@@ -31,7 +31,7 @@ A seguir, estão os principais temas analisados, com gráficos ilustrativos que 
 
 ## 📈 Resultados e Gráficos
 
-Abaixo estão os gráficos gerados a partir da análise exploratória. Todos estão disponíveis na pasta `(https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/tree/main/imagens_telecomX)`.
+Abaixo estão os gráficos gerados a partir da análise exploratória. Todos estão disponíveis na pasta `[(https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/tree/main/imagens_telecomX)]`.
 
 ### 1. Evasão de Clientes
 ![Evasão de Clientes](images/evasao_clientes.png)
