@@ -37,7 +37,7 @@ Abaixo estão os gráficos gerados a partir da análise exploratória. Todos est
 ![Evasão de Clientes](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Evas%C3%A3o%20de%20Clientes.png)
 
 ### 2. Distribuição de Cancelamento
-![Distribuição de Cancelamento].()
+![Distribuição de Cancelamento](https://github.com/Edracky/TelecomX-Analise-de-Evasao-de-Clientes/blob/main/imagens_telecomX/Distribui%C3%A7%C3%A3o%20de%20Cliente%20Idoso%20vs%20Cancelamento.png).
 ### 3. Formas de Pagamento
 ![Formas de Pagamento](images/formas_pagamento.png)
 
